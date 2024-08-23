@@ -38,6 +38,7 @@
   },
   "license": "MIT",
   "dependencies": {
+    "coe-comp-lib": "^0.0.1",
     "electron-squirrel-startup": "^1.0.1",
     "vue": "^3.4.38"
   }
